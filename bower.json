@@ -1,0 +1,16 @@
+{
+  "name": "pnc-chart-js",
+  "description": "Simple HTML5 charts using the canvas element.",
+  "homepage": "https://www.chartjs.org",
+  "license": "MIT",
+  "version": "3.0.0-dev-pnc.1",
+  "main": ["./dist/Chart.js", "./dist/Chart.css"],
+  "ignore": [
+    ".github",
+    ".codeclimate.yml",
+    ".gitignore",
+    ".npmignore",
+    ".travis.yml",
+    "scripts"
+  ]
+}
